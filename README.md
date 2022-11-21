@@ -11,5 +11,5 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/556282865244045323)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tlos3r)
 ## Github Stats :bar_chart:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tlos3r&layout=compact&theme=tokyonight)](https://github.com/Fuuyu/github-readme-stats)
-![Fuuyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tlos3r&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlos3r&layout=compact&theme=tokyonight)](https://github.com/Fuuyu/github-readme-stats)
+![Fuuyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlos3r&theme=tokyonight&show_icons=true)
