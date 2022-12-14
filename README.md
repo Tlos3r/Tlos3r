@@ -11,6 +11,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Tlos3r)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/556282865244045323)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tlos3r)
+## Recently song I have listened :headphones:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31swpqapnlihlbj3li3yyef3zbty&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31swpqapnlihlbj3li3yyef3zbty&redirect=true)
 ## Github Stats :bar_chart:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlos3r&layout=compact&theme=tokyonight)](https://github.com/Fuuyu/github-readme-stats)
 ![Fuuyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlos3r&theme=tokyonight&show_icons=true)
