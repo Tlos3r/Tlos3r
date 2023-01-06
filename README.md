@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&size=24&duration=4000&pause=2000&color=F7F7F7&vCenter=true&width=670&height=40&lines=Hi+my+name+is+Fu+%2C+i'm+a+front+end+developer+%E2%8C%A8%EF%B8%8F)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&size=24&duration=4000&pause=2000&color=F7F7F7&vCenter=true&width=670&height=40&lines=Hi+my+name+is+Fu+%2C+i'm+a+frontend+developer+%E2%8C%A8%EF%B8%8F)](https://git.io/typing-svg)
 **A guy looking how to become better than yesterday.**
 ## Skills <img src="https://emoji.gg/assets/emoji/6237-red-fire.gif" width="32px" height="32px" alt="Red_Fire">
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
